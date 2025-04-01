@@ -1,0 +1,29 @@
+Executando comandos...
+
+Comando: show session
+show session
+Connecting user secadmin from 192.168.144.3:50311
+****************************************** Warning ******************************************
+
+This system is restricted to authorized users for business purposes. Unauthorized access is a
+violation of the law. This service may be monitored for administrative and security reasons.
+By proceeding, you consent to this monitoring.
+
+*********************************************************************************************
+
+Last login: 2025-04-01T15:53:02Z
+
+
+[ ne ]
+secadmin@G42-1> show session
+session                      session-user  session-type  session-protocol  created-time          
+---------------------------  ------------  ------------  ----------------  --------------------  
+session-192.168.144.3:50311  secadmin      cli           ssh               2025-04-01T15:53:50Z  
+
+session                      local-ip-address  
+---------------------------  ----------------  
+session-192.168.144.3:50311  192.168.144.234   
+
+
+[ ne ]
+secadmin@G42-1> 

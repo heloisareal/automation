@@ -1,0 +1,24 @@
+Executando comandos...
+
+Comando: clear pm real-time
+clear pm real-time
+Connecting user secadmin from 192.168.144.3:51929
+clear pm real-time
+****************************************** Warning ******************************************
+
+This system is restricted to authorized users for business purposes. Unauthorized access is a
+violation of the law. This service may be monitored for administrative and security reasons.
+By proceeding, you consent to this monitoring.
+
+*********************************************************************************************
+
+Last login: 2025-04-01T16:12:52Z
+
+
+[ ne ]
+secadmin@G42-1> clear pm real-time
+This operation will delete pm data depending of the given input. Are you sure? [y/n] 
+Comando: y
+y
+[ ne ]
+secadmin@G42-1> 
